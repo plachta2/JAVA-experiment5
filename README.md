@@ -87,6 +87,7 @@ StudentM S1 = new StudentM();
 以上是读取文件方法的代码，很重要。
 # 实验结果
 ![实验结果截图](https://github.com/plachta2/JAVA-experiment5/raw/main/结果1.png)
+![实验结果截图](https://github.com/plachta2/JAVA-experiment5/raw/main/结果2.png)
 # 实验感想
 这次实验主要使用了文件的读取和保存，经过网上的资料查询，学会并仿写了一些代码，我觉得这些虽然很格式化，但还是很重要。其次是对奇偶字插入标点的判断，训练了我的循环编写能力，以及字符串处理能力。异常处理仍旧非常重要，可以让用户直观感受到哪里出现了问题。  
 还有在编写过程中出现的问题， 例如`char [] r=new char[999999];`长度要够长。以及`String text2 =text.replace("null","");`用replace()方法删除字符串中的指定字符，起到了很大作用。  
